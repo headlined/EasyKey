@@ -18,7 +18,7 @@ const { checkKey } = require("../../../modules/checkKey");
 
 const Router = Express.Router();
 
-const API_KEY    = "3000e5d166ad2a7eba9288a59e8528f0c6d1669b3653e158a634";
+const API_KEY    = "";
 const PROJECT_ID = "317de064314bfad4b987464e87fc5c4a";
 
 // Endpoints
